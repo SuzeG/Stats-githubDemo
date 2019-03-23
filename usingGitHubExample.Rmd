@@ -5,6 +5,7 @@ output:
   html_document: default
   html_notebook: default
 ---
+This is an attempt by me to learn how to use it.
 
 Kirsty is having fun
 
